@@ -23,11 +23,16 @@
     <span>QA </span>
   </div>
  <hr/>
-  #### Data máxima para terminar o BootCamp 23/07🕐
-  
-  ## Aulas e Aprendizados
-  
-  ### Introdução à Programação e a Pensamento Computacional:
+ 
+ #### Data máxima para terminar o BootCamp 23/07🕐
+
+<hr/>
+
+## Aulas e Aprendizados 📖
+
+<hr/>
+
+  ## Introdução à Programação e a Pensamento Computacional:
 - Demonstrou a utilização do pensamento computacional no dia-a-dia
 - Mostrou os 4 pilares do pensamento computacional: Decomposição, Reconhecimento de Padrões, Abstração e Design de Algoritmos
 - Uma vez em que você encontra a solução de um problema é necessário passar por: Análise, Refinamento e Teste
@@ -40,7 +45,7 @@
 - Os principais PARADIGMAS DE PROGRAMAÇÃO são Estruturada e de Orientação a Objetos.
 - Paradigma de programação é a forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando uma linguagem de programação
 
-### Git e GitHub:
+## Git e GitHub:
 - O Git bash é um terminal extendido para otimizar o uso do Git.
 #### links uteis:
 Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
@@ -53,3 +58,30 @@ Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um
 - git push origin nome-da-branch
 
 - Observação: sempre verificar se está logado com a conta do github
+
+
+## HTML5:
+- Estrutura e tags
+- html, head, meta, title, body
+#### Semantica:
+- section: seção genérica de conteúdos
+- header: cabeçalho de uma página ou de uma section
+- article: conteúdo relevante dentro da sua página
+- aside: conteúdo relacionado ao conteúdo principal da página, como biografia de um autor, normalmente é representado por uma barra lateral
+- footer: rodapé da página, section ou article
+- h1 - h6: representam a importância de um título em uma página
+- p: textos no geral
+- a: ancora juntamento href para fazer links
+- referente a tag a, colocando o atributo href e iniciando por mailto: o link é direcionado para o gerenciador de e-mail configurado em seu computador ou celular, isso também acontece, respectivamente com o prefixo telto: que vai direcionar para que se faça uma ligação com as informações do link
+- ol: lista enumerada
+- ul: lista avulsa
+- li: item de uma lista
+
+- [LINK PARA TEXTOS ALEATORIOS](https://www.lipsum.com/)
+- [LINK PARA IMAGENS ALEATORIAS](https://picsum.photos/)
+- [LINK PARA SITE PARA COMPRIMIR IMAGENS](https://tinypng.com/)
+
+## CSS3:
+- Regras de estilo para elementos ou grupos de elementos
+- Seletores são tags html
+- 
