@@ -9,3 +9,5 @@ git status
 git add .
 git commit -m "menssagem aqui"
 git push origin nome-da-branch
+
+sempre verificar se está logado com a conta do github
