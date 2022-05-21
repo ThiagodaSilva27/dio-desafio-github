@@ -1,0 +1,11 @@
+O Git bash é um terminal extendido para otimizar o uso do Git.
+
+links uteis:
+Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
+
+principais comando git:
+git clone link-do-repositorio
+git status
+git add .
+git commit -m "menssagem aqui"
+git push origin nome-da-branch
