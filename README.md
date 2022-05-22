@@ -84,4 +84,19 @@ Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um
 ## CSS3:
 - Regras de estilo para elementos ou grupos de elementos
 - Seletores são tags html
-- 
+- id é precedido de hash (#)
+- id pode ser usado apenas uma vez por página
+- classe (class) é precedido de ponto (.)
+- Para vincular o css com o html é necessário colocar a tag link no meio das tags head: <link rel="stylesheet" href="style.css">
+- Box Model: o html representa cada elemento html com uma caixa retangular
+- O Box Model é constituido por: margin, border, padding e content
+- margin: são espaçamentos entre elementos
+- border: circundam o padding e o conteúdo, sendo possível alterar sua aparência, como largura e cor
+- padding: é o espaçamento entre a borda e o conteúdo
+- pode se enviar as instruções de tamanho do padding e margin de algumas formas:
+> colocando o valor para os campos superior e inferior e outro valor para direita e esquerda>> margin: 15px 10px;
+
+> colocando um valor para cada lado, sendo a seguinte sequência top, right, bottom e left>> margin: 10px 3px 5px 20px;
+
+
+- [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
