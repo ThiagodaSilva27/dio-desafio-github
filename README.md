@@ -100,3 +100,6 @@ Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um
 
 
 - [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+### CSS animations
+![image](https://user-images.githubusercontent.com/58118544/171063885-4879afc3-a39a-41a9-95c0-86f66c5a2052.png)
