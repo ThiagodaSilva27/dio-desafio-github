@@ -103,3 +103,9 @@ Dicas para fazer um README: https://raullesteves.medium.com/github-como-fazer-um
 
 ### CSS animations
 ![image](https://user-images.githubusercontent.com/58118544/171063885-4879afc3-a39a-41a9-95c0-86f66c5a2052.png)
+
+### INTRODUCAO JAVASCRIPT
+![image](https://user-images.githubusercontent.com/58118544/174693424-e3ad715b-d2d7-4f9f-858a-29c601dcb501.png)
+![image](https://user-images.githubusercontent.com/58118544/174693462-825b3f8b-5fca-4ca6-9eef-56dc9ea02037.png)
+
+
