@@ -4,8 +4,6 @@ const palindromo = () => {
     let palavraSemEspacos = palavra.replace(/ /g, "");
     palavraSemEspacos = palavraSemEspacos.toLocaleLowerCase();
     
-    alert(`palavraSemEspacos: ${palavraSemEspacos}`)
-    
     for (let i = 0; i < palavraSemEspacos.length; i++) {
         const sub = i+1
         const index = palavraSemEspacos.length - sub;
@@ -18,7 +16,7 @@ const palindromo = () => {
     if (palavraSemEspacos == palavraInvertida) {
         alert(`"${palavra}" é um palindromo`);
     } else {
-        alert(`"${palavra}" não é um palindromo`);
+        alert(`"${palavra}" NÃO é um palindromo`);
     }
 }
 
