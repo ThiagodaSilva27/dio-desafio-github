@@ -1,6 +1,6 @@
 const substituirNumerosPares = (arrayNumeros) => {
     const novoArray = [];
-    if (arrayNumeros != '') {
+    if (arrayNumeros?.length != 0) {
         for (let i = 0; i < arrayNumeros.length; i++) {
             const numero = Number(arrayNumeros[i]);
             if ((numero % 2) == 0 && numero !== 0) {
