@@ -1,0 +1,42 @@
+.pageLight {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textLight {
+    color: #000000;
+}
+
+.botaoLight {
+    width: 15vw;
+    height: 15vh;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 50%;
+}
+
+.pageDark {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(87, 85, 85)
+}
+
+.textDark {
+    color: #ffffff;
+}
+
+.botaoDark {
+    width: 15vw;
+    height: 15vh;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 50%;
+}
